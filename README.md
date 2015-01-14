@@ -1,13 +1,10 @@
-# Title: Blocks, Procs and Lambdas
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-###Time Required:
-- 30 minutes+
+# Blocks
 
-###Prereqs
-- Loops
-- Arrays
 
-###Objectives:
+## Objectives:
+
 - Practice using methods that use blocks.
 - Create methods that use blocks as parameters.
 
@@ -17,9 +14,7 @@
 - Explain why you would use a block
 - How would you create a method that uses a block
 
-### In Class Lesson
+### Lab
 Open up the file lab/blocks.rb 
 And work thru contents of the file.
 
-###  In Class Lab
-***TBD***
